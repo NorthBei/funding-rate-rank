@@ -1,14 +1,18 @@
 {
-  "name": "murmurcat-fundingrate",
-  "version": "0.1.0",
+  "name": "murmurcat-funding-rate-rank",
+  "version": "1.0.0",
   "private": true,
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build"
   },
   "dependencies": {
+    "boostrap": "^2.0.0",
     "core-js": "^3.8.3",
-    "vue": "^3.2.13"
+    "element-plus": "^2.2.9",
+    "firebase": "^9.8.4",
+    "vue": "^3.2.13",
+    "vuefire": "^2.2.5"
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "~5.0.0",

@@ -1,15 +1,14 @@
 <template>
-  <img alt="Vue logo" src="./assets/logo.png">
-  <HelloWorld msg="Welcome to Your Vue.js App"/>
+  <FundingRateRank />
 </template>
 
 <script>
-import HelloWorld from './components/HelloWorld.vue'
+import FundingRateRank from './components/FundingRateRank.vue'
 
 export default {
   name: 'App',
   components: {
-    HelloWorld
+    FundingRateRank
   }
 }
 </script>
