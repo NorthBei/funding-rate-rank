@@ -68,7 +68,7 @@ Install packages & Run the development server:
 
 ```zsh
 npm run install
-npm run dev
+npm run serve
 ```
 
 ### Project setup
